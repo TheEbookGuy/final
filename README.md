@@ -23,7 +23,7 @@ node server/server.js
 
 Open:
 
-```text
+```text 
 http://localhost:8000
 ```
 
